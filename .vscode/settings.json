@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": 1,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.insertSpaces": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+}
